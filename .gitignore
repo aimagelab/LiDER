@@ -1,6 +1,5 @@
 *.gif
 *.pdf
-data/
 checkpoints/
 checkpoints_today/
 gradcam/
@@ -15,7 +14,6 @@ wandb/
 *.pkl
 *.sh
 *.txt
-*.pth
 json/
 out/
 err/
@@ -173,7 +171,6 @@ illustrations/loss_landscape/computed_matrices2/
 parseval.ipynb
 
 err
-data
 out
 log
 gitdiffs
