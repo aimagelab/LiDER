@@ -88,7 +88,7 @@ class DerppLipschitz(LipOptimizer):
 
                 lip_inputs = [buf_inputs] + buf_output_features[:-1]
 
-                loss += self.args.budget_lip_lambda * self.budget_lip_loss(lip_inputs, buf_inputs) 
+                loss += self.args.budget_lip_lambda * self.budget_lip_loss(lip_inputs) 
 
         loss.backward()
         self.opt.step()

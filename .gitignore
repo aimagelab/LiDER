@@ -186,3 +186,6 @@ checkpoints
 *.pkl
 *.pt
 *.tar.gz
+
+data
+!data/ckpt
