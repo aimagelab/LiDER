@@ -1,8 +1,14 @@
-# Mammoth - An Extendible (General) Continual Learning Framework for Pytorch
+# Official implementation of LiDER: *On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning*
 
-## Required packages:
+*Accepted at NeurIPS 2022*
 
+Based on [https://github.com/aimagelab/mammoth](Mammoth)
 
+## Citation
+
+**Please stand by.**
+
+## Example:
 
 Command:
 
