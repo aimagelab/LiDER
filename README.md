@@ -11,9 +11,7 @@ Based on [https://github.com/aimagelab/mammoth](Mammoth)
     title={On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning},
     author={Bonicelli, Lorenzo and Boschini, Matteo and Porrello, Angelo and Spampinato, Concetto and Calderara, Simone},
     booktitle = {Advances in Neural Information Processing Systems 35},
-    year={2022},
-    url={https://arxiv.org/abs/2210.06443},
-    keywords={Rehearsal}
+    year={2022}
 }
 ```
 
